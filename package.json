@@ -1,0 +1,16 @@
+{
+  "name": "facebook",
+  "version": "1.0.0",
+  "description": "send bible verse of the day",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.78.0"
+  }
+}
